@@ -31,6 +31,7 @@
 
 | # | 主题 | 核心内容 |
 |---|------|----------|
+| 00 | [PID 控制与现代控制的关系](00_pid_and_modern_control.md) | PID 原理、各项作用、与极点配置/LQR 的联系、整定方法、局限 |
 | 01 | [状态空间分析](01_state_space.md) | 状态方程、解的形式、矩阵指数、模态分析、平衡点 |
 | 02 | [可控性与可观性](02_controllability_observability.md) | 可控/可观判据、PBH 判据、Kalman 分解、最小实现 |
 | 03 | [状态反馈与极点配置](03_state_feedback_pole_placement.md) | 状态反馈、极点配置定理、Ackermann 公式、解耦 |
